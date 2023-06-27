@@ -1,0 +1,197 @@
+/* DOCUMENTO CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /*border: 1px solid black;*/
+    
+
+}
+body {    
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+#topo {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2B1100;
+}
+#topo li {
+    display: inline;
+}
+
+#topo li a{
+    font-size: 20px;
+    color: #FFA600;
+    padding: 35px 100px 30px 100px;
+    font-weight: 800;
+    transition: 0.4s;
+}
+#logo {
+    width: 400px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#logo2 {
+    width: 400px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: -120px;
+}
+#logo3 {
+    width: 569px;
+    height: 369px;
+    border: solid black 10px;
+    border-radius: 15px;
+    margin-left: 850px;
+    margin-top: -350px;
+
+}
+#gato {
+    width: 560px;
+    height: 369px;
+    margin-left: 100px;
+    margin-top: -300px;
+
+}
+#imagem {
+    width: 560px;
+    height: 369px;
+    margin-left: 800px;
+    margin-top: -290px;
+    
+}
+#imagem2 {
+    margin-top: -140px;
+    margin-bottom: 40px;
+}
+#mapa{
+    width: 560px;
+    height: 369px;
+    margin-left: 800px;
+    margin-top: -290px;
+    
+}
+#Whatsapp {
+    margin-right: 1200px;
+    margin-top: 160px;
+}
+#instagram{
+    margin-left: 1000px;
+    margin-top: -150px;
+}
+#frase {
+    margin-top: 280px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+}
+
+.coluna1 {
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 750px;
+    
+
+}
+#caixa1 {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 30px;
+}
+#secao1 {
+    height: 600px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+   background-color: #FFA600;
+   
+}
+#secao2 {
+    height: 900px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+#secao3 {
+    height: 500px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+   background-color: #2B1100;
+}
+.coluna2 {
+    margin-top: 30px;
+    margin-left: 1040px;
+    margin-right: 800px;
+    
+
+}
+#caixa2 {
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 800px;
+    font-size: 30px;
+}
+.coluna3 {
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 800px;
+    color: #FFA600;
+    
+
+}
+#caixa3 {
+    width: 800px;
+    margin-top: 50px;
+    margin-left: -9px;
+    font-size: 30px;
+    color:  #FFA600;
+}
+.coluna4 {
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 800px;
+    color: #FFA600;
+}
+#caixa4 {
+    margin-right: 700px;
+    color: #FFA600;
+}
+#contato{
+    margin-right: 600px;
+    margin-top: -150px;
+}
+#frase2{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 1000px;
+}
+
+#rodape {
+    height: 400px;
+    width: 1526px;
+    margin-left: -39px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #a4a4a4;
+    padding: 0 100px;
+    font-weight: 600;
+    background-color: #FFA600;
+}
+
+#rodape figure {
+    width: 90px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
